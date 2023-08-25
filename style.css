@@ -1,0 +1,45 @@
+/*topo*/
+    body{
+        background-color: #FFF; 
+        text-align: center;
+        padding: 10px;
+        color:#222222;
+    }
+  
+    img{
+        width:60%;
+        border-radius: 10px;
+    }
+    div{
+        text-align: center;
+        margin:10px;
+    }
+    .sumario{
+        width: 100%;
+        height: 30px;
+        margin-top: -20px;
+        padding: 10px;
+        background: #FFF;
+        position: fixed;
+        border-bottom: 5px solid #d31b3d;
+    }
+
+   h1{
+    color:#222222;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   h2{
+    color:#222222;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+    .text{
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        background: #d31b3d;
+        padding: 20px;
+        color:#FFF;
+        border-radius: 10px;
+    
+    }
+    
